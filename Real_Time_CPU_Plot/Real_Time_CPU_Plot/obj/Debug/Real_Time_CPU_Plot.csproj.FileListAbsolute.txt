@@ -1,0 +1,9 @@
+C:\Users\afoto\Desktop\Try\Real_Time_CPU_Plot\Real_Time_CPU_Plot\bin\Debug\Real_Time_CPU_Plot.exe.config
+C:\Users\afoto\Desktop\Try\Real_Time_CPU_Plot\Real_Time_CPU_Plot\bin\Debug\Real_Time_CPU_Plot.exe
+C:\Users\afoto\Desktop\Try\Real_Time_CPU_Plot\Real_Time_CPU_Plot\bin\Debug\Real_Time_CPU_Plot.pdb
+C:\Users\afoto\Desktop\Try\Real_Time_CPU_Plot\Real_Time_CPU_Plot\obj\Debug\Real_Time_CPU_Plot.csprojResolveAssemblyReference.cache
+C:\Users\afoto\Desktop\Try\Real_Time_CPU_Plot\Real_Time_CPU_Plot\obj\Debug\Real_Time_CPU_Plot.Form1.resources
+C:\Users\afoto\Desktop\Try\Real_Time_CPU_Plot\Real_Time_CPU_Plot\obj\Debug\Real_Time_CPU_Plot.Properties.Resources.resources
+C:\Users\afoto\Desktop\Try\Real_Time_CPU_Plot\Real_Time_CPU_Plot\obj\Debug\Real_Time_CPU_Plot.csproj.GenerateResource.Cache
+C:\Users\afoto\Desktop\Try\Real_Time_CPU_Plot\Real_Time_CPU_Plot\obj\Debug\Real_Time_CPU_Plot.exe
+C:\Users\afoto\Desktop\Try\Real_Time_CPU_Plot\Real_Time_CPU_Plot\obj\Debug\Real_Time_CPU_Plot.pdb
